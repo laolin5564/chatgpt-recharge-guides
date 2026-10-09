@@ -13,6 +13,10 @@
 | 付了款，却找不到交付内容或兑换结果？ | [查单与异常处理](docs/order-help.md) | [订单帮助](https://shop.laolin.ai/shop/guides/order-help) |
 | 已有订阅要续费或升级，或者页面提示宽限期？ | [已有订阅与账号资料](docs/renewal-and-account.md) | [续费升级](https://shop.laolin.ai/shop/guides/renewal-upgrade)、[账号与 Session](https://shop.laolin.ai/shop/guides/account-session) |
 
+## 商城服务说明
+
+关于商城、联系入口、付款交付、退款处理和账号资料说明，集中在[商城与售后服务](https://shop.laolin.ai/shop/help)。遇到个人订单问题，请从这里查找客服入口；本仓库不接收卡密、Session 或付款凭证。
+
 ## 文档如何维护
 
 每篇说明标明检查日期。容易变动的套餐能力、可售商品、价格和资格不固定复制到仓库；读者应通过实际商品说明和官方资料确认。发现内容过时，可按[更新规范](CONTRIBUTING.md)提出具体改进。
